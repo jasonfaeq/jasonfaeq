@@ -55,7 +55,7 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 - **[Steam Statistics](https://github.com/jasonfaeq/Steam-Statistics)**: Using SQL and Power BI, a big dataset from Steam was analyzed and put on a Power BI dashboard.
 
 ### Web Development Projects
-- **[Portfolio](www.jasonfaeq.com)**: My personal portfolio website showcasing my skills and projects.
+- **[Portfolio](https://github.com/jasonfaeq/Latest-Portfolio)**: My personal portfolio website showcasing my skills and projects.
 - **[Dragon Gym](https://dragon-gym.vercel.app/join)**: This website is a homage to one of my most favorite gyms.
 - **[Best Movies](#)**: A website app that shows you the best movies from each decade.
 
