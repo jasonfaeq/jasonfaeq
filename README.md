@@ -65,7 +65,3 @@ I'm always open to collaborating on exciting projects and discussing new ideas. 
 - 🌐 **Website**: [www.jasonfaeg.com](http://www.jasonfaeq.com)
 
 Let's make something amazing together!
-
----
-
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonfaeq&show_icons=true&theme=radical)
