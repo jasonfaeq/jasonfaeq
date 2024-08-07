@@ -21,9 +21,9 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 
 ### Web Development
 
-- **Front-End**: Building responsive and dynamic user interfaces with HTML, CSS, JavaScript, and frameworks like ReactJS, NextJS and Angular.
+- **Front-End**: Building responsive and dynamic user interfaces using the latest techs.
 - **Back-End**: Developing robust back-end systems using Node.js.
-- **Full-Stack Projects**: Combining my skills to create full-stack applications with the latest techs.
+- **Full-Stack Projects**: Combining my skills to create full-stack applications.
 
 ## Skills
 
@@ -44,6 +44,9 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 - Visual Studio Code
 - Jupyter Notebook
 - Docker
+- Framer Motion
+- Sony Vegas
+- Adobe Premier
 
 ## Projects
 
