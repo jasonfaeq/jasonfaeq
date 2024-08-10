@@ -22,7 +22,7 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 ### Web Development
 
 - **Front-End**: Building responsive and dynamic user interfaces using the latest techs.
-- **Back-End**: Developing robust back-end systems using Node.js.
+- **Back-End**: Developing robust back-end apps using Django and Node.js.
 - **Full-Stack Projects**: Combining my skills to create full-stack applications.
 
 ## Skills
@@ -34,8 +34,8 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 - Foundation in C, C++ and Java
 
 ### Frameworks & Libraries
-- ReactJS, , NextJS, Angular
-- Node.js, Express
+- ReactJS, NextJS, Angular
+- Node.js, Express, Django
 - Pandas, NumPy, Matplotlib
 - Power BI, Tableau
 
@@ -50,11 +50,14 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 
 ## Projects
 
+### Web Applications
+- **[Asiacell's Customer Relations Management System](https://github.com/jasonfaeq/Asiacell-CRM)**: A CRM app to manage a big customer database that is linked to an Azure mySQL Server.
+
 ### Data Analytics & Visualization Projects
 - **[Spotify Playlist Analysis](https://github.com/jasonfaeq/Spotify-Playlist)**: Scraped my biggest Spotify playlist, analyzed and visualized it using multiple techs.
 - **[Steam Statistics](https://github.com/jasonfaeq/Steam-Statistics)**: Using SQL and Power BI, a big dataset from Steam was analyzed and put on a Power BI dashboard.
 
-### Web Development Projects
+### Front-End Projects
 - **[Portfolio](https://github.com/jasonfaeq/Latest-Portfolio)**: My personal portfolio website showcasing my skills and projects.
 - **[Dragon Gym](https://dragon-gym.vercel.app/join)**: This website is a homage to one of my most favorite gyms.
 - **[Best Movies](#)**: A website app that shows you the best movies from each decade.
