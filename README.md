@@ -62,6 +62,8 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 - **[Dragon Gym](https://dragon-gym.vercel.app)**: This website is a homage to one of my most favorite gyms.
 - **[Best Movies](#)**: A website app that shows you the best movies from each decade.
 
+### Other
+- **[Robbie](https://github.com/jasonfaeq/robbie)**: Python code for the robot 'Robbie' (IE Semester 2 Project)
 ## Get In Touch
 
 I'm always open to collaborating on exciting projects and discussing new ideas. Feel free to reach out to me!
