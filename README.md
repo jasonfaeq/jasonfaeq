@@ -6,7 +6,7 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 
 ## About Me
 
-- 🎓 **Education**: BSc in Information Engineering, MSc in Environmental Engineering, BSc in Petroleum Engineering
+- 🎓 **Education**: MSc in Environmental Engineering (TUHH), BSc in Petroleum Engineering (AUK)
 - 🌍 **Location**: Currently based in Hamburg, Germany
 - 🌐 **Website**: [www.jasonfaeg.com](http://www.jasonfaeq.com)
 - 🔗 **LinkedIn**: [Jason Faeq](https://www.linkedin.com/in/jasonfaeq/)
