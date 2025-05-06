@@ -52,7 +52,7 @@ Hi there! I'm Jason, a passionate data enthusiast and web developer. I love divi
 
 ### Web Applications
 - **[Asiacell's Customer Relations Management System](https://github.com/jasonfaeq/Asiacell-CRM)**: A CRM app to manage a big customer database that is linked to an Azure mySQL Server.
-- **[Vattenfall's Master Data Management System 'Vattenflow'](https://github.com/jasonfaeq/MDM-Vattenflow)**: A web-based internal tool for managing WBS and Cost Center change requests—built to streamline SAP-related workflows between Controllers and Master Data Management (MDM) teams.
+- **[Vattenfall's Master Data Management System 'Vattenflow'](https://github.com/jasonfaeq/MDM-Vattenflow)**: A web-based internal tool for managing WBS and Cost Center change requests, built to streamline SAP-related workflows between Controllers and Master Data Management (MDM) teams.
 
 ### Data Analytics & Visualization Projects
 - **[Spotify Playlist Analysis](https://github.com/jasonfaeq/Spotify-Playlist)**: Scraped my biggest Spotify playlist, analyzed and visualized it using multiple techs.
